@@ -9,7 +9,7 @@
         </div>
         <article class="markdown-body entry-content container-lg f5" itemprop="text">
             <div class="markdown-heading" dir="auto">
-                <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Naeem Abdullah Akram</h1><a
+                <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Naeem Abdullah</h1><a
                     id="user-content-hi--im-syeda-maham-fahim" class="anchor"
                     aria-label="Permalink: Hi 👋, I'm Naeem Abdullah Akram" href="#hi--im-Naeem-Abdullah-Akram"><svg
                         class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -25,9 +25,17 @@
                     src="https://camo.githubusercontent.com/4d965334bbef2b56cc806bf06fdd6dcabddca61492a1c1925e4d6ce94a337611/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73796564616d6168616d666168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
                     alt="NaeemAkram"
                     data-canonical-src="https://komarev.com/ghpvc/?username=syedamahamfahim&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
-                    style="max-width: 100%;"> </a> </p>
+                    style="max-width: 100%;"><img
+                    src="https://camo.githubusercontent.com/4d965334bbef2b56cc806bf06fdd6dcabddca61492a1c1925e4d6ce94a337611/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73796564616d6168616d666168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
+                    alt="NaeemAbdullah"
+                    data-canonical-src="https://komarev.com/ghpvc/?username=syedamahamfahim&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+                    style="max-width: 100%;"><img
+                    src="https://camo.githubusercontent.com/4d965334bbef2b56cc806bf06fdd6dcabddca61492a1c1925e4d6ce94a337611/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73796564616d6168616d666168696d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
+                    alt="NaeemAbdullahAkram"
+                    data-canonical-src="https://komarev.com/ghpvc/?username=syedamahamfahim&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+                    style="max-width: 100%;"></a> </p>
         <div class="markdown-heading" dir="auto">
-            <h1 class="heading-element" dir="auto"> <center>About Me 😄 </center> </h1><a id="user-content--about-me--" class="anchor"
+            <h1 class="heading-element" dir="auto"> About Me 😄 </h1><a id="user-content--about-me--" class="anchor"
                 aria-label="Permalink:  About Me 😄 " href="#-about-me--"><svg class="octicon octicon-link"
                     viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                     <path
@@ -68,18 +76,18 @@
 
         <p dir="auto">🎓 Visit Portfolio website <a href="https://www.syedamaham.dev/"
                 rel="nofollow"><strong>https://www.linkedin.com/in/naeem-akram-7a48a01ba//</strong></a> 🚀💡 <br>
-            <!-- Ⓜ Visit Medium <a href="https://medium.com/@syedamahamfahim/"
-                rel="nofollow"><strong>https://medium.com/@syedamahamfahim/</strong></a></p> -->
-          <div class="markdown-heading" dir="auto">
+            Ⓜ Visit Medium <a href="https://medium.com/@syedamahamfahim/"
+                rel="nofollow"><strong>https://medium.com/@syedamahamfahim/</strong></a></p>
+        /* <div class="markdown-heading" dir="auto">
             <h1 align="left" class="heading-element" dir="auto">Profiles</h1><a id="user-content-profiles"
                 class="anchor" aria-label="Permalink: Profiles" href="#profiles"><svg class="octicon octicon-link"
                     viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                     <path
                         d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-                         </path>
+                        */ </path>
                 </svg></a>
-        </div> 
-         <!-- <a href="https://www.syedamaham.dev/profiles" rel="nofollow">https://www.syedamaham.dev/profiles</a> -->
+        </div>
+        // <a href="https://www.syedamaham.dev/profiles" rel="nofollow">https://www.syedamaham.dev/profiles</a>
         <div class="markdown-heading" dir="auto">
             <h1 class="heading-element" dir="auto"> Check My GitHub Stats 📊</h1><a
                 id="user-content--check-my-github-stats-" class="anchor"
