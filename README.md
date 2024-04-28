@@ -75,7 +75,7 @@
 - 📢 I Love to Code and learn new technologies.
 
 	<a  align="center">
-![](https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
 	</a>
 
 
@@ -83,8 +83,8 @@
 
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
-		<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
+		<img height="120em" src="https://github-readme-stats.vercel.app/apiusername=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=&&theme=algolia"/>
 	</a>
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 </p>
