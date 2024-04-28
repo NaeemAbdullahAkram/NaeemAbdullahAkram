@@ -40,7 +40,7 @@
 
 
  # Hi 👋, I'm Naeem Abdullah Akram
-<!-- ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) -->
+![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) 
 
 
 
@@ -89,8 +89,8 @@
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 </p>
 
-<!--  ## Contribution Graph
-![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
+ ## Contribution Graph
+![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) 
 
 ## Tech Stack
 
