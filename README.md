@@ -48,8 +48,7 @@
 
 <ul dir="auto">
         <li>
-          <p dir="auto">🎓 <strong>Formal Education:</strong> Senior year student of Computer Sciences at Lahore
-            Garrison University, Lahore, Pakistan.</p>
+          <p dir="auto">🎓 <strong>Formal Education:</strong> Senior year student of Computer Sciences at Lahore Garrison University, Lahore, Pakistan.</p>
         </li>
         <li>
           <p dir="auto">🤝 <strong>Wants to work:</strong> I’m available for freelance work.</p>
@@ -70,7 +69,7 @@
 
 
 ### I am a Software Engineer and Tech Enthusiast 
-- 🔭 I am a Senior Student at Lahore Garrison University in BSCS.
+ <!-- - 🔭 I am a Senior Student at Lahore Garrison University in BSCS. -->
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2024 Goals: Contribute to open source and read self-help books.
 - 📢 I Love to Code and learn new technologies.
@@ -84,8 +83,8 @@
 
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqrasarwar&layout=compact&langs_count=8&theme=algolia"/>
+		<img height="180em" src="https://github-readme stats.vercel.app/apiusername=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 </p>
@@ -118,7 +117,6 @@
 
 
 
-
 <div>
         <h2 / tabindex="-1" class="heading-element" dir="auto"><i>🏆 GitHub Trophies</i></h2>
       </div>
@@ -127,23 +125,20 @@
             src="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34"
             alt=""
             data-canonical-src="https://github-profile-trophy.vercel.app/?username=aleeza23&amp;theme=dracula&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4"
-            style="max-width: 100%;"></a></p>
+            style="max-width: 100%;"></a></p> 
       <div class="markdown-heading" dir="auto">
-        <h1 class="heading-element" dir="auto"> Check My GitHub Stats 📊</h1><a
-          id="user-content--check-my-github-stats-" class="anchor" aria-label="Permalink:  Check My GitHub Stats 📊"
-          href="#-check-my-github-stats-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
-            height="16" aria-hidden="true">
-            <path
-              d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
-            </path>
-          </svg></a>
-      </div>
+	      <h1 class="heading-element" dir="auto"> Check My GitHub Stats 📊</h1>
+       <a id="user-content--check-my-github-stats-" class="anchor" aria-label="Permalink:  Check My GitHub Stats 📊"
+          href="#-check-my-github-stats-"> 
+	       <svg class="action action-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+            <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z" 
+             </path> </svg></a> </div>
       <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
           href="https://camo.githubusercontent.com/71cd35ec675d6af1e2f8e17bd80a0546f1017483f1de489c6b301b82a42d3d1a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d73796564616d6168616d666168696d2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img
             align="left"
             src="https://camo.githubusercontent.com/71cd35ec675d6af1e2f8e17bd80a0546f1017483f1de489c6b301b82a42d3d1a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d73796564616d6168616d666168696d2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"
-            alt="syedamahamfahim"
-            data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=syedamahamfahim&amp;show_icons=true&amp;locale=en&amp;layout=compact"
+            alt="NaeemAbdullahAkram"
+            data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&amp;show_icons=true&amp;locale=en&amp;layout=compact"
             style="max-width: 100%;"></a></p>
       <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
           href="[https://camo.githubusercontent.com/595df21b5e74738141df7355ddff4a9ddce2639967f8906e25cb3f31c5e70f5b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73796564616d6168616d666168696d26](https://github.com/NaeemAbdullahAkram)"><img
@@ -152,9 +147,6 @@
             alt="NaeemAbdullahAkram"
             data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&amp;"
             style="max-width: 100%;"></a></p>
-
-
-
 
 
 
