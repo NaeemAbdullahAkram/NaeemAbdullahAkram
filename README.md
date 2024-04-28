@@ -39,7 +39,7 @@
 
 
 
-# Hello World, I am Iqra Sarwar 👋
+# Hello World, I am Naeem Akram 👋
 ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
 
 ### I am a Software Engineer and Tech Enthusiast 
