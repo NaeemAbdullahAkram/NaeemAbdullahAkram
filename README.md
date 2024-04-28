@@ -40,13 +40,13 @@
 
 
 # Hello World, I am Naeem Akram 👋
-![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
+<!-- ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) -->
 
 ### I am a Software Engineer and Tech Enthusiast 
-- 🔭 I am currently working on React, Moodle and PHP.
+- 🔭 I am a Senior Student at Lahore Garrison University in BSCS.
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2024 Goals: Contribute to open source and read self-help books.
-- 📢 I Love to read books, and learn new technologies.
+- 📢 I Love to Code and learn new technologies.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
@@ -56,7 +56,7 @@
 ## GitHub Analytics
 
 <p align="center">
-	<a href="https://github.com/iqrasarwar">
+	<a href="https://github.com/NaeemAbdullahAkram">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iqrasarwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqrasarwar&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
@@ -94,20 +94,20 @@
 ## Let's Connect
 <br/>
 <p align="center">
-	<a href="mailto:iqrasarwarm012@gmail.com">
+	<a href="mailto:maliknaeemakram308@gmail.com">
 		<img  alt="iqrasarwarm012@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
-	<a href="https://twitter.com/iqra_sarwar_">
-		<img alt="@iqra_sarwar_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	<a href="https://twitter.com/">
+		<img alt="@twitter.com_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/iqrasarwar/">
-		<img alt="Iqra Sarwar| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	<a href="linkedin.com/in/naeem-akram-7a48a01ba/">
+		<img alt="Naeem Akram | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://leetcode.com/iqrasarwar/">
+<!-- 	<a href="https://leetcode.com/iqrasarwar/">
 		<img alt="Iqra Sarwar| LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-	</a>
-	<a href="https://github.com/iqrasarwar">
-		<img alt="Iqra Sarwar| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+	</a> -->
+	<a href="https://github.com/NaeemAbdullahAkram">
+		<img alt="Naeem Akram| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<br />
 </p>     
