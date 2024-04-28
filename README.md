@@ -39,7 +39,7 @@
 
 
 
-# Hello World, I am Naeem Akram 👋
+ # Hi 👋, I'm Naeem Abdullah Akram
 <!-- ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) -->
 
 ### I am a Software Engineer and Tech Enthusiast 
@@ -60,11 +60,11 @@
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iqrasarwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqrasarwar&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqrasarwar&show_icons=true&locale=en&layout=demo&theme=algolia" />
+ <!--	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqrasarwar&show_icons=true&locale=en&layout=demo&theme=algolia" /> -->
 </p>
 
-## Contribution Graph
-![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
+<!--  ## Contribution Graph
+![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) -->
 
 ## Tech Stack
 
@@ -88,14 +88,14 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nodejs" width="55" height="55"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
-</p>
+</p> 
 
 
 ## Let's Connect
 <br/>
 <p align="center">
 	<a href="mailto:maliknaeemakram308@gmail.com">
-		<img  alt="iqrasarwarm012@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+		<img  alt="maliknaeemakram308@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
 	<a href="https://twitter.com/">
 		<img alt="@twitter.com_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
