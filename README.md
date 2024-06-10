@@ -44,8 +44,6 @@
 
 
 
-
-
 <ul dir="auto">
         <li>
           <p dir="auto">🎓 <strong>Formal Education:</strong> Senior year student of Computer Sciences at Lahore Garrison University, Lahore, Pakistan.</p>
@@ -69,7 +67,7 @@
 
 
 ### I am a Software Engineer and Tech Enthusiast 
- <!-- - 🔭 I am a Senior Student at Lahore Garrison University in BSCS. -->
+<!--  - 🔭 I am a Senior Student at Lahore Garrison University in BSCS. -->
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2024 Goals: Contribute to open source and read self-help books.
 - 📢 I Love to Code and learn new technologies.
@@ -83,10 +81,10 @@
 
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
+	<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 </p>
 
  ## Contribution Graph
