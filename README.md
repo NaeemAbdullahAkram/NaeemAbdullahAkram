@@ -130,7 +130,7 @@
 
 
 ## Let's Connect
-<br/>
+<hr>
 <p align="center">
 	<a href="mailto:maliknaeemakram308@gmail.com">
 		<img  alt="maliknaeemakram308@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
@@ -147,7 +147,7 @@
 	<a href="https://github.com/NaeemAbdullahAkram">
 		<img alt="Naeem Akram| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
-	<br /> <hr>
+	 <hr>
 <p align="center">
 <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
