@@ -147,7 +147,11 @@
 	<a href="https://github.com/NaeemAbdullahAkram">
 		<img alt="Naeem Akram| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
-	<br />
+	<br /> <hr>
+<p align="center">
+<img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+ 
 </p>     
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
