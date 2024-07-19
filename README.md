@@ -141,9 +141,9 @@
 	<a href="linkedin.com/in/naeem-akram-7a48a01ba/">
 		<img alt="Naeem Akram | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-<!-- 	<a href="https://leetcode.com/iqrasarwar/">
-		<img alt="Iqra Sarwar| LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-	</a> -->
+ 	<a href="https://leetcode.com/Naeem_ABD/">
+		<img alt="Naeem ABD| LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+	</a> 
 	<a href="https://github.com/NaeemAbdullahAkram">
 		<img alt="Naeem Akram| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
