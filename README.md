@@ -55,9 +55,8 @@
                                       \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-
+# About Me:  I am a Software Engineer and Tech Enthusiast
 <ul dir="auto">
-	## About Me:  I am a Software Engineer and Tech Enthusiast
         <li>
           <p dir="auto">🎓 <strong>Formal Education:</strong> Senior year student of Computer Sciences at Lahore Garrison University, Lahore, Pakistan.</p>
         </li>
