@@ -125,8 +125,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="66" height="66"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nodejs" width="66" height="66"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="66" height="66"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="66" height="66"/> </a> </p> <br/>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="66" height="66"/> </a>
 
+<img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp, javascript, typescript, react, next,vite, tailwind, fast API, node js, expressjs, redux, git, Linux"/>
+ 
+</p> <br/>
 
 
 <div>
@@ -152,7 +155,7 @@
 		<img alt="@twitter.com_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 	<a href="linkedin.com/in/naeem-akram-7a48a01ba/">
-		<img alt="Naeem Akram | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img alt="Naeem Akram | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
  	<a href="https://leetcode.com/Naeem_ABD/">
 		<img alt="Naeem ABD| LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
@@ -170,3 +173,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
