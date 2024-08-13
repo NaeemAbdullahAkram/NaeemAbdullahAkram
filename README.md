@@ -84,10 +84,16 @@
 	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
+	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
+	<p align="center">
+  <a href="https://github.com/NaeemAbdullahAkram">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
 </p>
 
- ## Contribution Graph
+</p>
+
+<!-- ## Contribution Graph -->
 <!--![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) 
 ![Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
 
@@ -147,6 +153,7 @@
 	<a href="https://github.com/NaeemAbdullahAkram">
 		<img alt="Naeem Akram| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
+	<a href="https://naeemabdullah799.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 	 <hr>
 <p align="center">
 <img width="1000" src="github-snake.svg" alt="snake"/>
