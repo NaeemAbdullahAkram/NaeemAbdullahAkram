@@ -57,6 +57,7 @@
 
 
 <ul dir="auto">
+	## About Me: ### I am a Software Engineer and Tech Enthusiast
         <li>
           <p dir="auto">🎓 <strong>Formal Education:</strong> Senior year student of Computer Sciences at Lahore Garrison University, Lahore, Pakistan.</p>
         </li>
@@ -72,24 +73,16 @@
         </li>
       </ul>
 
-
-
-
-
-
-
-### I am a Software Engineer and Tech Enthusiast 
-<!--  - 🔭 I am a Senior Student at Lahore Garrison University in BSCS. -->
-- 👯 I am looking to collaborate on Web Development Projects.
-- 🥅 2024 Goals: Contribute to open source and read self-help books.
-- 📢 I Love to Code and learn new technologies.
+- 👯 <strong>I am looking</strong> to collaborate on Web Development Projects.
+- 🥅 <strong>2024 Goals:</strong> Contribute to open source and read self-help books.
+- 📢 <strong>I Love to Code and learn new technologies.</strong>
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/>
 	</a>
- <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/>
-</div>
+ <!--<div id="header" align="center">	 
+ </div> -->
 
 
 ## GitHub Analytics
