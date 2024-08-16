@@ -1,4 +1,5 @@
-  <!--<div class="Box mt-4 "> 
+  <!-- aleeza23
+  <div class="Box mt-4 "> 
 <!--     <div class="Box-body p-4"> -->
 <!--       <div class="d-flex flex-justify-between"> -->
 <!--         <div class="text-mono text-small mb-3"> -->
@@ -72,9 +73,9 @@
         </li>
       </ul>
 
-- 👯 <strong>I am looking</strong> to collaborate on Web Development Projects.
-- 🥅 <strong>2024 Goals:</strong> Contribute to open source and read self-help books.
-- 📢 <strong>I Love to Code and learn new technologies.</strong>
+	- 👯 <strong>I am looking</strong> to collaborate on Web Development Projects.
+	- 🥅 <strong>2024 Goals:</strong> Contribute to open source and read self-help books.
+	- 📢 <strong>I Love to Code and learn new technologies.</strong>
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
@@ -88,13 +89,13 @@
 
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
-	<img height="220em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="1800em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
+	<img width="600%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 	<p align="center">
   <a href="https://github.com/NaeemAbdullahAkram">
-    <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    <img height=1800 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
 </p>
 
@@ -128,10 +129,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="66" height="66"/> </a>
 
 <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp, javascript, typescript, react, next,vite, tailwind, fast API, node js, expressjs, redux, git, Linux"/>
- 
-</p> <br/>
-
-
+</p>
 <div>
         <h2 / tabindex="-1" class="heading-element" dir="auto"><i>🏆 GitHub Trophies</i></h2>
       </div>
@@ -139,7 +137,7 @@
           href="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34"><img
             src="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34"
             alt=""
-            data-canonical-src="https://github-profile-trophy.vercel.app/?username=aleeza23&amp;theme=dracula&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4"
+            data-canonical-src="https://github-profile-trophy.vercel.app/?username=NaeemAbdullahAkram&amp;theme=dracula&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4"
             style="max-width: 100%;"></a></p> 
       <div class="markdown-heading" dir="auto">
 	      
