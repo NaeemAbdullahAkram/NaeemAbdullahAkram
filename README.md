@@ -71,15 +71,22 @@
           <p dir="auto">📫 <strong>How to reach me:</strong> You can contact me at <strong><a
                 href="mailto:maliknaeemakram308@gmail.com">maliknaeemakram308@gmail.com</a></strong>.</p>
         </li>
+	<li>
+		<p dir="auto">- 👯 <strong>I am looking</strong> to collaborate on Web Development Projects.</p>
+	</li>
+	<li>
+		<p dir="auto">- 📢 <strong>I Love to Code and learn new technologies.</strong> </p>
+	</li>
+	<li>
+		<p dir="auto">- 🥅 <strong>2024 Goals:</strong> Contribute to open source and read self-help books. </p>
+	</li>
       </ul>
-- 👯 <strong>I am looking</strong> to collaborate on Web Development Projects.
-- 🥅 <strong>2024 Goals:</strong> Contribute to open source and read self-help books.
-- 📢 <strong>I Love to Code and learn new technologies.</strong>
 
-	<a  align="center">
+
+<a  align="center">
 ![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
-<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/>
-	</a>
+<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/> </a>
+
  <!--<div id="header" align="center">	 
  </div> -->
 
