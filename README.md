@@ -140,13 +140,13 @@
 <div>
         <h2 / tabindex="-1" class="heading-element" dir="auto"><i>🏆 GitHub Trophies</i></h2>
       </div>
-      <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"href="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34">
+      <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow 
+ "href="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34">
 	      <img src="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34">
             alt="data-canonical-src="https://github-profile-trophy.vercel.app/?username=NaeemAbdullahAkram&amp;theme=dracula&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4"
-            style="max-width: 100%;"></a></p> 
+            style="max-width: 100%;"></a></p>
       <div class="markdown-heading" dir="auto">
 	      
-
 
 ## Let's Connect
 <hr>
