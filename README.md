@@ -106,7 +106,7 @@
   </a> 
 </p>
 </p>
-<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical"/> </p>
+<p><center> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical"/></center> </p>
 <!-- ## Contribution Graph -->
 <!--![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) 
 ![Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
