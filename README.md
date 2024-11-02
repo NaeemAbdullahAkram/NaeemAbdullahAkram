@@ -98,8 +98,9 @@
 	<a href="https://github.com/NaeemAbdullahAkram">
 	<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical"/>
 	</a>
-	![NaeemAbdullahAkram GitHub stats](https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical)
+	 
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 	<p align="center">
   <a href="https://github.com/NaeemAbdullahAkram">
