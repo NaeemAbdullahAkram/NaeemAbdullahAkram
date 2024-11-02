@@ -105,9 +105,8 @@
     <img height=180 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
 </p>
-
 </p>
-
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical"/> </p>
 <!-- ## Contribution Graph -->
 <!--![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) 
 ![Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
