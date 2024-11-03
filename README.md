@@ -176,6 +176,4 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-## Daily Dev Card
-
-<a href="https://app.daily.dev/NaeemAbdullahAkram"><img src="https://api.daily.dev/devcards/v2/eCYKGSsVlzKQY1G7NxkJc.png?type=default&r=srn" width="356" alt="Naeem's Dev Card"/></a>
+ 
