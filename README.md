@@ -96,13 +96,11 @@
 
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/>
 	</a>
   	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=compact" alt="NaeemAbdullahAkram" /></p>
- 
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=compact" alt="NaeemAbdullahAkram" />
 	<p align="center">
   <a href="https://github.com/NaeemAbdullahAkram">
     <img height=180 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
