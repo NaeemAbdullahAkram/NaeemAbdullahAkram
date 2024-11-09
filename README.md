@@ -97,10 +97,10 @@
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=compact" alt="NaeemAbdullahAkram" />
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/>
 	</a>
   	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=compact" alt="NaeemAbdullahAkram" />
 	<p align="center">
   <a href="https://github.com/NaeemAbdullahAkram">
     <img height=180 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
@@ -135,15 +135,15 @@
 
 <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp,Javascript, typescript,React, next,vite, tailwind,FastAPI, node js, ExpressJs, redux, git, Linux"/>
 </p>
-<div>
-       <h2 / tabindex="-1" class="heading-element" dir="auto"><i>🏆 GitHub Trophies</i></h2>
+
+<!--        <h2 / tabindex="-1" class="heading-element" dir="auto"><i>🏆 GitHub Trophies</i></h2>
       </div>
       <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
  <img src="href="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34">
 	      <img src="https://camo.githubusercontent.com/69ba4135022264c243b353bf5b8fe920593f59ca0f3974c76e6e36eb790ef2a8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65657a613233267468656d653d64726163756c61266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34">
             alt="data-canonical-src="https://github-profile-trophy.vercel.app/?username=NaeemAbdullahAkram&amp;theme=dracula&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4"
             style="max-width: 100%;"></a></p>
-      <div class="markdown-heading" dir="auto"> 
+      <div class="markdown-heading" dir="auto">  -->
 	      
 
 ## Let's Connect
