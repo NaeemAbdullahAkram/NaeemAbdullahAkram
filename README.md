@@ -97,10 +97,10 @@
 <p align="center">
 	<a href="https://github.com/NaeemAbdullahAkram">
 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	</a>
 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=compact" alt="NaeemAbdullahAkram" />
 	<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/>
 	<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en" alt="NaeemAbdullahAkram" />
-	</a>
   	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> 
 	<p align="center">
   <a href="https://github.com/NaeemAbdullahAkram">
