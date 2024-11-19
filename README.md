@@ -96,11 +96,10 @@
 
 <p align="center">
 	
-<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats"><img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/><br>
-<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br>
+<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats">
 	     
- 
-  <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia" /> <br>
+  <p align="center"><img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/><br>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia" /> <br>
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /><br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /></p>
 
