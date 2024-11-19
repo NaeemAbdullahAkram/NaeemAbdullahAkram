@@ -96,15 +96,15 @@
 
 <p align="center">
 	
-<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/><br>
-<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=NaeemAbdullahAkram&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br>
+<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats"><img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count&theme=algolia"/><br>
+<a href="https://github.com/NaeemAbdullahAkram/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br>
 	     
  
   <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia" /> <br>
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /><br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /></p>
 
- <p align="center"><a href="https://github.com/NaeemAbdullahAkram"><img height=150 src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/></a></p>
+ <p align="center"><a href="https://github.com/NaeemAbdullahAkram"><img width=50% src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/></a></p>
  
  ## GitHub Trophies 
  <a href="https://github.comNaeemAbdullahAkram/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaeemAbdullahAkram" alt="NaeemAbdullahAkram"/></a>
