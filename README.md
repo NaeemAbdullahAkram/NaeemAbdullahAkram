@@ -93,27 +93,31 @@
 
 
 ## GitHub Analytics
-<!--theme=tokyonight-->
+<!--theme=tokyonight   //    align="center"-->
 <p align="center">
 	
 <a href="https://github.com/NaeemAbdullahAkram/github-readme-stats">
 	   
-  <img width="50%" src="https://github-readme-stats-theta-eight.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=algolia"/><br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia" /> <br>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /><br>
+  <img width="50%" src="https://github-readme-stats-theta-eight.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=algolia"><br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia" >
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" >
+  
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=tokyonight"  ><br>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /><br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" ><br>
+  <!--<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" ><br>-->
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia"> <br>
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia"> <br>
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&<br>theme=algolia"> <br>
+  
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia"> <br>
 </p>
 
 ## Contribution Graph
- <!--<a href="https://github.com/NaeemAbdullahAkram"><img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia"/></a>-->
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia"/>
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia">
- <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia">
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=tokyonight">
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
+ <img width="80%" height="10%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia">
  <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=algolia&cache_buster=true" >
  
  ## GitHub Trophies 
@@ -145,7 +149,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="55" height="55"/></a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" title="MS Excel" alt="MS Excel" width="55" height="55"/></a>
 
 <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp,Javascript, typescript,React, next,vite, tailwind,FastAPI, node js, ExpressJs, redux, git, Linux"/>
