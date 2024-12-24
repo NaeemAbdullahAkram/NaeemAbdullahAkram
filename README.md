@@ -1,5 +1,6 @@
+<h1 align="center">Hi 👋, I'm Naeem Akram</h1>
+<h3 align="center"> Welcome! I'm a passionate AI/ML & Python Devolper based in Lahore, Pakistan.</h3>
 
- # Hi 👋, I'm Naeem Abdullah Akram
  <!-- ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) -->
 <pre>
                                        ___           ___           ___       ___       ___     
@@ -42,8 +43,9 @@
       </ul>
 
 <div align="center">
-<a  align="center">![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
-<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/> </a>
+	<img src="https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views">
+	<img src="https://visitcount.itsvg.in/api?id=NaeemAbdullahAkram&icon=0&color=2">
+	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/> 
 </div>
  
 ## GitHub Stats
@@ -54,22 +56,22 @@
 </div>
 
 ## Language Stats
- <div align="center">
+ <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=algolia">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia"><br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia" /><br>
 
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" />
-</div>
+ </div>
 
 ## Contribution Graph
  <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia" align="center">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia"/>
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia" >
  <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=algolia&cache_buster=true" >
  
- ## GitHub Trophies 
+ ## 🏆 GitHub Trophies 
  <a href="https://github.comNaeemAbdullahAkram/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaeemAbdullahAkram" alt="NaeemAbdullahAkram"/></a>
 <!-- ## Contribution Graph -->
 <!--![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) 
