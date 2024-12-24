@@ -56,7 +56,7 @@
 </div>
 
 ## Language Stats
- <div>
+ <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=algolia">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia"><br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia" /><br>
