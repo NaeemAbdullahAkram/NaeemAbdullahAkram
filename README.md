@@ -43,7 +43,7 @@
       </ul>
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views">
+	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">
 	<img src="https://visitcount.itsvg.in/api?id=NaeemAbdullahAkram&icon=0&color=2">
 	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/> 
 </div>
