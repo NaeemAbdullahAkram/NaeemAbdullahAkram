@@ -53,6 +53,7 @@
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=blue-green"  /> <br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" /> <br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=blue-green" />
+  <img width="50%" src="https://github-readme-streak-stats.vercel.app/api?user=NaeemAbdullahAkram&theme=blue-green" />
 </div>
 
 ##  📈  Language Stats
