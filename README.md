@@ -43,9 +43,9 @@
       </ul>
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">
-	<img src="https://visitcount.itsvg.in/api?id=NaeemAbdullahAkram&icon=0&color=2">
-	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/> 
+	<!--<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">-->
+	<!--<img src="https://visitcount.itsvg.in/api?id=NaeemAbdullahAkram&icon=0&color=blue-green">-->
+	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue-green" alt=""/> 
 </div>
  
 ## 📈  GitHub Stats 
@@ -58,17 +58,16 @@
 ##  📈  Language Stats
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
-  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green"><br>-->
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" />		 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=algolia" /><br>
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&langs_count=20&theme=blue-green" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&langs_count=20&theme=blue-green" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green"><br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=blue-green" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=blue-green" />
  </div>
 
 ##  📈  Contribution Graph 
  <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=blue-green">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=blue-green" >
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
  <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=blue-green&cache_buster=true" >
  
  ## 🏆 GitHub Trophies 
@@ -78,27 +77,6 @@
 ![Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
 
 ## Tech Stack
-
-
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-
-
-
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a>
@@ -127,6 +105,25 @@
 
 <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp,Javascript, typescript,React, next,vite, tailwind,FastAPI, node js, ExpressJs, redux, git, Linux"/>
 </p>     
+
+
+
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 
 
