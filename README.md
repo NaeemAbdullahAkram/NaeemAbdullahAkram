@@ -43,13 +43,14 @@
       </ul>
 
 <div align="center">
-	<!--<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">-->
-	<!--<img src="https://visitcount.itsvg.in/api?id=NaeemAbdullahAkram&icon=0&color=blue-green">-->
+	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">
+	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blue-green&label=Profile+Views">
 	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue-green" alt=""/> 
 </div>
  
 ## 📈  GitHub Stats 
 <div align="center">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api?username=NaeemAbdullahAkram&theme=blue-green"  />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=blue-green"  /> <br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" /> <br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=blue-green" />
@@ -59,7 +60,7 @@
 ##  📈  Language Stats
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green"><br>
+  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green"><br>-->
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=blue-green" />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=blue-green" />
@@ -67,7 +68,6 @@
 
 ##  📈  Contribution Graph 
  <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=blue-green">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=blue-green" >
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
  <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=blue-green&cache_buster=true" >
  
@@ -105,9 +105,9 @@
     <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" title="MS Excel" alt="MS Excel" width="55" height="55"/></a>
 
 <img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp,Javascript, typescript,React, next,vite, tailwind,FastAPI, node js, ExpressJs, redux, git, Linux"/>
-</p>     
+</p>
 
-
+<hr>
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -126,11 +126,10 @@
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
-
+<hr>
 
 
 ## Let's Connect
-<hr>
 <p align="center">
 	<a href="mailto:maliknaeemakram308@gmail.com">
 		<img  alt="maliknaeemakram308@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
