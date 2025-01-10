@@ -48,24 +48,26 @@
 	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue" alt=""/> 
 </div>
  
-## GitHub Stats
+## GitHub Stats 📈
 <div align="center">
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=algolia"  /> <br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=algolia" /> <br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" />
+![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=blue-green)
 </div>
 
-## Language Stats
+## Language Stats 📈
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=algolia">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=algolia"><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green)](https://github.com/NaeemAbdullahAkram/github-readme-stats)
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&theme=algolia" /><br>
 
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" />
  </div>
 
-## Contribution Graph
+## Contribution Graph 📈
  <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia" align="center">
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia" >
