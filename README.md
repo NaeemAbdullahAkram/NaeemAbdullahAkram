@@ -49,13 +49,13 @@
 </div>
  
 ## 📈  GitHub Stats 
-<div>
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=algolia">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=tokyonight">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" >
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" >
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=monokai-metallian&hide_border=true"/>
+<div align="center">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=algolia">
+<!--<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=tokyonight">-->
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" >
+<!--<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" >-->
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=monokai-metallian&hide_border=true"/>
 </div>
 
 ##  📈  Language Stats
