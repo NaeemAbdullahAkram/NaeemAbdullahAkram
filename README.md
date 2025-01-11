@@ -32,13 +32,13 @@
                 href="mailto:maliknaeemakram308@gmail.com">maliknaeemakram308@gmail.com</a></strong>.</p>
         </li>
 	<li>
-		<p dir="auto">- 👯 <strong>I am looking</strong> to collaborate on Web Development Projects.</p>
+		<p dir="auto">- 👯 <strong>I am looking</strong> to collaborate on AI Automation & Web Development Projects.</p>
 	</li>
 	<li>
 		<p dir="auto">- 📢 <strong>I Love to Code and learn new technologies.</strong> </p>
 	</li>
 	<li>
-		<p dir="auto">- 🥅 <strong>2024 Goals:</strong> Contribute to open source and read self-help books. </p>
+		<p dir="auto">- 🥅 <strong>2025 Goals:</strong> Contribute to open source and read self-help books. </p>
 	</li>
       </ul>
 
@@ -49,27 +49,24 @@
 </div>
  
 ## 📈  GitHub Stats 
-<div align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api?username=NaeemAbdullahAkram&theme=algolia"  />
+<div>
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=algolia"  /> <br>
 <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=tokyonight">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=monokai-metallian&hide_border=true"/>
-  <img width="50%" src="https://github-readme-streak-stats.vercel.app/api?user=NaeemAbdullahAkram&theme=algolia" />
-
-
+</div>
 
 ##  📈  Language Stats
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green">-->
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" />
-  <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=NaeemAbdullahAkram&limit=7&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=NaeemAbdullahAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
  </div>
+ <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" />
 
 ##  📈  Contribution Graph 
  <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia">
