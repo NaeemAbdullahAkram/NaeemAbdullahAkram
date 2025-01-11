@@ -62,11 +62,12 @@
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green">-->
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" >
+ <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=NaeemAbdullahAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" >
+ <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" >
+ <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" >
  </div>
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" >
- <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=NaeemAbdullahAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" >
- <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" >
- <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" >
+
 
 ##  📈  Contribution Graph 
  <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia">
