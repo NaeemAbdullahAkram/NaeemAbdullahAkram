@@ -45,7 +45,7 @@
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">
 	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=green&label=Profile+Views">
-	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=yellow&lable=Profile+Views" alt="Profile Views"/> 
+	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&style=for-the-badge&color=blue-green&lable=Profile+Views" alt="Profile Views"/> 
 </div>
  
 ## 📈  GitHub Stats 
@@ -53,17 +53,17 @@
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api?username=NaeemAbdullahAkram&theme=algolia"  />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=algolia"  /> <br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" /> <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" />
-  <img width="50%" src="https://github-readme-streak-stats.vercel.app/api?user=NaeemAbdullahAkram&theme=algolia" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&show_icons=true&local=en&layout=demo&theme=algolia" />
+  <img width="50%" src="https://github-readme-streak-stats.vercel.app/api?user=NaeemAbdullahAkram&show_icons=true&local=en&layout=demo&theme=algolia" />
 </div>
 
 ##  📈  Language Stats
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green">
+  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green">-->
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" />
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=blue-green" />
  </div>
 
 ##  📈  Contribution Graph 
