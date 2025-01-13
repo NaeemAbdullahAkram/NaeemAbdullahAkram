@@ -56,11 +56,18 @@
 <!--<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" >-->
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=monokai-metallian&hide_border=true"/>
+	
+<a href="https://github.com/NaeemAbdullahAkram">
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+
 </div>
 
 ##  📈  Language Stats
  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=buefy"/>
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green">-->
  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" >
  <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=NaeemAbdullahAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" >
