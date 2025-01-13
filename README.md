@@ -55,13 +55,13 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" >
 <!--<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" >-->
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=monokai-metallian&hide_border=true"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia"/>
 	
 <!--<a href="https://github.com/NaeemAbdullahAkram">
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>-->
-<img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&" alt="Naeem Akram" />
+<img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" />
 
 
 </div>
