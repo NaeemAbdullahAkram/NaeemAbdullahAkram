@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Akram</h1>
-<h3 align="center"> Welcome! I'm a passionate AI/ML & Python Devolper based in Lahore, Pakistan.</h3>
+<h3 align="center"> Welcome! I'm a passionate MERN Stack & Python developer based in Lahore, Pakistan.</h3>
 
  <!-- ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) -->
 <pre>
