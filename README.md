@@ -1,174 +1,71 @@
-<h1 align="center">Hi 👋, I'm Naeem Akram</h1>
-<h3 align="center"> Welcome! I'm a passionate MERN Stack & Python developer based in Lahore, Pakistan.</h3>
+# 👋 Hi there, I'm Naeem Akram
 
- <!-- ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg) -->
-<pre>
-                                       ___           ___           ___       ___       ___     
-                                      /\__\         /\  \         /\__\     /\__\     /\  \    
-                                     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                                    /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                                   /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                                  /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                                  \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                       \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                      \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+### 🧑‍💻 MERN Stack & Python Developer | 🚀 Passionate About Building Scalable Web Applications
 
-# About Me:  I am a Software Engineer and Tech Enthusiast
-<ul dir="auto">
-        <li>
-          <p dir="auto">🎓 <strong>Formal Education:</strong> Senior year student of Computer Sciences at Lahore Garrison University, Lahore, Pakistan.</p>
-        </li>
-        <li>
-          <p dir="auto">🤝 <strong>Wants to work:</strong> I’m available for freelance work.</p>
-        </li>
-        <li>
-          <p dir="auto">📝 <strong>Share Knowledge:</strong> I regularly share my work on LinkedIn site.</p>
-        </li>
-        <li>
-          <p dir="auto">📫 <strong>How to reach me:</strong> You can contact me at <strong><a
-                href="mailto:maliknaeemakram308@gmail.com">maliknaeemakram308@gmail.com</a></strong>.</p>
-        </li>
-	<li>
-		<p dir="auto">- 👯 <strong>I am looking</strong> to collaborate on AI Automation & Web Development Projects.</p>
-	</li>
-	<li>
-		<p dir="auto">- 📢 <strong>I Love to Code and learn new technologies.</strong> </p>
-	</li>
-	<li>
-		<p dir="auto">- 🥅 <strong>2025 Goals:</strong> Contribute to open source and read self-help books. </p>
-	</li>
-      </ul>
+I’m a software developer based in Lahore, Pakistan with a strong focus on full-stack web development and backend systems. With hands-on experience in modern technologies, I bring ideas to life through clean, efficient code and robust architecture.
 
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blueviolet&label=Profile+Views">
-	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=green&label=Profile+Views">
-	<img src="https://komarev.com/ghpvc/?username=NaeemAbdullahAkram&color=blue&lable=Profile+Views"/> 
-</div>
- 
-## 📈  GitHub Stats 
-<div align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=algolia">
-<!--<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaeemAbdullahAkram&theme=tokyonight">-->
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&locale=en&layout=demo&theme=blue-green" >
-<!--<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" >
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia" >-->
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=algolia"/>
-	
-<!--<a href="https://github.com/NaeemAbdullahAkram">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
- <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>-->
-<img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemAbdullahAkram&theme=tokyonight" />
+---
 
+## 🚀 Tech Stack
 
-</div>
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-##  📈  Language Stats
- <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&langs_count&theme=blue-green">
-  <!--<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=buefy"/>-->
-  <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=blue-green">-->
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=20&theme=blue-green" >
- <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=NaeemAbdullahAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" >
- <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=algolia" >
- <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=algolia" >
- </div>
+---
 
+## 📌 Featured Projects
 
-##  📈  Contribution Graph 
- <img align="center" width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=algolia">
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark" >
- <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=algolia&cache_buster=true" >
- 
- ## 🏆 GitHub Trophies 
- <a href="https://github.comNaeemAbdullahAkram/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaeemAbdullahAkram" alt="NaeemAbdullahAkram"/></a>
-<!-- ## Contribution Graph -->
-<!--![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg) 
-![Contribution Graph](./profile-3d-contrib/profile-night-view.svg) -->
+### 🎯 AI Table | [Repo](https://github.com/NaeemAbdullahAkram/ai-table)
+A powerful automation-driven online table manager that supports intelligent actions using GPT technology. Built with **React, Node.js, MongoDB**, and integrated with **OpenAI APIs**.
 
-## Tech Stack
+### 🧬 DNA Matcher (CS50)
+A Python-based tool to identify individuals by analyzing STR DNA sequences. Includes CSV parsing and string pattern matching using **Python + CS50 logic**.
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" bg="white" width="55" height="55"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="55"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> </a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c++" width="55" height="55"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="git" width="55" height="55"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="git" width="55" height="55"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="git" width="55" height="55"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nodejs" width="55" height="55"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="55" height="55"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" title="MS Excel" alt="MS Excel" width="55" height="55"/></a>
+### 🔎 Spell Checker (CS50)
+Implemented a spell checker using **Hash Tables and Trie** data structures to scan through a dictionary of 100,000+ words efficiently.
 
-<img src="https://skillicons.dev/icons?i=bash,postgresql,redis,MongoDB,MySQL,rabbitmq,kafka, docker, Kubernetes, ts, AWS, python, go,cpp,Javascript, typescript,React, next,vite, tailwind,FastAPI, node js, ExpressJs, redux, git, Linux"/>
-</p>
+### 📚 Sort Visualizer (CS50)
+Animated visualization of Bubble, Insertion, Selection, and Merge Sorts in **C using GTK**. Helpful for educational purposes.
 
-<hr>
+---
 
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## 🏆 Achievements
 
+- ✅ Completed **CS50x (Harvard's Computer Science)**: Acquired solid foundations in C, Python, SQL, and Web programming.
+- 🧠 Built multiple end-to-end full stack apps using the **MERN Stack**.
+- 📈 Contributor to open-source projects and active GitHub community member.
+- 📜 Strong problem-solving skills demonstrated through successful completion of various algorithmic challenges.
 
-<hr>
+---
 
+## 📫 Connect With Me
 
-## Let's Connect
-<p align="center">
-	<a href="mailto:maliknaeemakram308@gmail.com">
-		<img  alt="maliknaeemakram308@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-	</a>
-	<a href="https://twitter.com/">
-		<img alt="@twitter.com_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="linkedin.com/in/naeem-akram-7a48a01ba/">
-		<img alt="Naeem Akram | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
- 	<a href="https://leetcode.com/Naeem_ABD/">
-		<img alt="Naeem ABD| LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-	</a> 
-	<a href="https://github.com/NaeemAbdullahAkram">
-		<img alt="Naeem Akram| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
-	<a href="https://naeemabdullah799.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
-	 <hr>
-<p align="center">
-<img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
- 
-</p>     
+- 🌐 [Portfolio Website](#) *(coming soon)*
+- 📩 Email: [naeemabdullahakram@gmail.com](mailto:naeemabdullahakram@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/naeem-akram)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
+---
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
- 
+### 📊 GitHub Stats
+
+![Naeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=react)
+
+---
+🧠 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
