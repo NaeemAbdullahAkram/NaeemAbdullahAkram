@@ -9,13 +9,10 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello!%20I%27m%20Naeem%20Akram%20-%23FFFFFF?style=flat-square&logo=react&logoColor=00B0FF" alt="About Me" class="animate__animated animate__fadeIn animate__delay-1s"/>
-</p>
-<p align="center">
-  Hi! I'm **Naeem Akram**, a passionate Full Stack Developer from **Lahore, Pakistan 🇵🇰**. I love building full-stack applications and exploring the possibilities of **Python**, **automation**, and **AI/ML**.
+  Hi! I'm **Naeem Akram**, a passionate Full Stack Developer from **Lahore, Pakistan 🇵🇰**. I love building Web applications and exploring the possibilities of **Development**.
 </p>
 
-- 💼 Full Stack Developer | Python Automation Expert  
+- 💼 Mern Stack Developer | Python Automation Expert  
 - 🧠 Solved **500+ LeetCode problems**  
 - 📜 Certified in CS50, HackerRank (Python, JavaScript, Problem Solving)  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/naeemabdullahakram/) | [Email](mailto:naeemabdullahakram@gmail.com)  
@@ -25,9 +22,6 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Frontend%20Tech%20Stack-%23FFFFFF?style=flat-square&logo=html5&logoColor=E34F26" class="animate__animated animate__fadeIn animate__delay-1s"/>
-</p>
 
 #### 🚀 Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +33,7 @@
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +42,6 @@
 
 #### 🧩 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,36 +56,25 @@
 
 ### 📜 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CS50%20-%23E34F26?style=flat-square&logo=harvard&logoColor=white" class="animate__animated animate__fadeIn animate__delay-1s"/>
-</p>
-
 - 🎓 **CS50 - Introduction to Computer Science (Harvard University)**  
 - 🛠 **HackerRank Skills Verified**: Python, JavaScript, Problem Solving  
 - 🧠 **500+ LeetCode Problems Solved**
 
 ---
 
-### 📂 Featured Projects
-
-<p align="center">
+### <p align="left">
   <img src="https://img.shields.io/badge/Featured%20Projects-%23FFFFFF?style=flat-square&logo=github&logoColor=181717" class="animate__animated animate__fadeIn animate__delay-1s"/>
 </p>
 
-#### 🔧 [CS50 Projects](https://github.com/NaeemAbdullahAkram/CS50x)
-> Harvard’s CS50 problem sets like Speller, Sort, DNA, SQL-based apps.
-
-#### 🌐 [Portfolio Website](https://naeemabdullahakram.github.io)
-> A sleek React & Tailwind-powered portfolio with dark mode and animations.
-
-#### 🤖 [AI Table Automation](https://github.com/NaeemAbdullahAkram/AI-Table)
-> Automates spreadsheet workflows using Python + AI.
 
 #### 🧠 [Befer.co (AI-Powered Tool)](https://befer.co)
 > Contributed to a real-time AI tool streamlining social media workflows and branding.
 
 #### 🛍 [DealerIQ AI App](https://dealeriqai.up.railway.app/)
 > Built and deployed a real-time platform using Python and web technologies to assist car dealerships with AI-driven insights.
+
+#### 🔧 [CS50 Projects](https://github.com/NaeemAbdullahAkram/CS50x)
+> Harvard’s CS50 problem sets like Speller, Sort, DNA, SQL-based apps.
 
 ---
 
