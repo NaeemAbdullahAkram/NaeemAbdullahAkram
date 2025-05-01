@@ -1,71 +1,70 @@
-# 👋 Hi there, I'm Naeem Akram
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:3f3f3f&height=200&section=header&text=Naeem%20Akram&fontSize=40&fontAlignY=35&fontColor=ffffff)
 
-### 🧑‍💻 MERN Stack & Python Developer | 🚀 Passionate About Building Scalable Web Applications
-
-I’m a software developer based in Lahore, Pakistan with a strong focus on full-stack web development and backend systems. With hands-on experience in modern technologies, I bring ideas to life through clean, efficient code and robust architecture.
-
----
-
-## 🚀 Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&width=435&lines=MERN+Stack+Developer;Python+%7C+AI+Enthusiast;Open+Source+Contributor;Problem+Solver+%7C+Tech+Explorer"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 👨‍💻 About Me
 
-### 🎯 AI Table | [Repo](https://github.com/NaeemAbdullahAkram/ai-table)
-A powerful automation-driven online table manager that supports intelligent actions using GPT technology. Built with **React, Node.js, MongoDB**, and integrated with **OpenAI APIs**.
+Hi! I'm **Naeem Akram**, a passionate developer from **Lahore, Pakistan 🇵🇰**. I'm focused on building full-stack web applications using **MERN Stack** and exploring the power of **Python** in automation and AI.
 
-### 🧬 DNA Matcher (CS50)
-A Python-based tool to identify individuals by analyzing STR DNA sequences. Includes CSV parsing and string pattern matching using **Python + CS50 logic**.
-
-### 🔎 Spell Checker (CS50)
-Implemented a spell checker using **Hash Tables and Trie** data structures to scan through a dictionary of 100,000+ words efficiently.
-
-### 📚 Sort Visualizer (CS50)
-Animated visualization of Bubble, Insertion, Selection, and Merge Sorts in **C using GTK**. Helpful for educational purposes.
+- 💼 MERN Stack Developer | Python Automation Expert
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/naeemabdullahakram/) | [Email](mailto:naeemabdullahakram@gmail.com)
+- 🔭 Currently diving deeper into **Node.js** and **Next.js**
 
 ---
 
-## 🏆 Achievements
+### 🚀 Tech Stack
 
-- ✅ Completed **CS50x (Harvard's Computer Science)**: Acquired solid foundations in C, Python, SQL, and Web programming.
-- 🧠 Built multiple end-to-end full stack apps using the **MERN Stack**.
-- 📈 Contributor to open-source projects and active GitHub community member.
-- 📜 Strong problem-solving skills demonstrated through successful completion of various algorithmic challenges.
-
----
-
-## 📫 Connect With Me
-
-- 🌐 [Portfolio Website](#) *(coming soon)*
-- 📩 Email: [naeemabdullahakram@gmail.com](mailto:naeemabdullahakram@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/naeem-akram)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Featured Projects
 
-![Naeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&theme=react)
+#### 🔧 [CS50 Projects](https://github.com/NaeemAbdullahAkram/CS50x):
+> Harvard’s CS50 coding problem sets including Speller, Sort, DNA, and SQL-based apps.
+
+#### 🌐 [Portfolio Website](https://naeemabdullahakram.github.io):
+> A sleek personal portfolio built with React and Tailwind.
+
+#### 📊 [AI Table Automation](https://github.com/NaeemAbdullahAkram/AI-Table):
+> Automates spreadsheet operations using Python and AI logic.
 
 ---
-🧠 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark"/>
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naeemabdullahakram/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:naeemabdullahakram@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/NaeemAbdullahAkram"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=150&section=footer)
+
+> ⭐️ Inspired by top developers' profiles | Customized for Naeem Akram
