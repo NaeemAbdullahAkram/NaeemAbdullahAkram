@@ -81,12 +81,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=github_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash4844&theme=github_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" />
   
-
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=radical&hide_border=true" />
@@ -116,4 +114,3 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3f3f3f&height=150&section=footer)
 
-> ⭐️ Inspired by top developer profiles | Customized for Naeem Akram
