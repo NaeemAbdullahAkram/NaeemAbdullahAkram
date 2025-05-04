@@ -1,4 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:3f3f3f&height=200&section=header&text=Naeem%20Akram&fontSize=40&fontAlignY=35&fontColor=ffffff)
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844" alt="Prakash4844" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&width=435&lines=Full+Stack+Developer;500%2B+LeetCode+Problems+Solved;CS50+%7C+HackerRank+Certified;Open+Source+Contributor"/>
@@ -6,8 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me               <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844" alt="Prakash4844" />
-
+### 👨‍💻 About Me               
 <p align="center">
   Hi! I'm ***Naeem Akram***, a passionate Full Stack Developer from **Lahore, Pakistan 🇵🇰**. I love building Web applications and exploring the possibilities of **Development**.
 </p>
@@ -16,7 +16,7 @@
 - 🧠 Solved **500+ LeetCode problems**  
 - 📜 Certified in CS50, HackerRank (Python, JavaScript, Problem Solving)  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/naeemabdullahakram/) | [Email](mailto:naeemabdullahakram@gmail.com)  
-- 🔭 Currently diving deeper into **Next.js**, **AI/ML**, and **system design**
+- 🔭 Currently diving deeper into **Backend**, **Frontend**, and **system design**
 
 ---
 
@@ -81,13 +81,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=github_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash4844&theme=github_dark" alt="Top Languages by Commits" /></p>
+  
+
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=radical&hide_border=true" />
 
-  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=algolia" alt="NaeemAbdullahAkramTrophy" />
- ![Prakash's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="NaeemAbdullahAkramTrophy" />
+ ![NaeemAbdullahAkram's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
 </p>
 
