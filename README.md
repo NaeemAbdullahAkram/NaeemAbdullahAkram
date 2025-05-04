@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 About Me               
-<p align="center">
-  ### Hi! I'm ***Naeem Akram***, a passionate Mern Stack Developer from **Lahore, Pakistan 🇵🇰**.
-</p>
+  <p align="center">
+    ### Hi! I'm ***Naeem Akram***, a passionate Mern Stack Developer from **Lahore, Pakistan 🇵🇰**.
+  </p>
 
 - 💼 Mern Stack Developer | Python Automation Expert  
 - 🧠 Solved **500+ LeetCode problems**  
@@ -55,29 +55,26 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p>
+<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" ></p>
+<p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" />
     <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical&hide_border=true" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" >
     <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="NaeemAbdullahAkramTrophy" />
-
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia&area=true&hide_border=true#gh-light-mode-only"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia&area=true"/>
  
 </p>
 
 ---
 
 ### 📜 Certifications
-<p aligh="center">
-- 🎓 **CS50 - Introduction to Computer Science (Harvard University)**  
-- 🛠 **HackerRank Skills Verified**: Python, JavaScript, Problem Solving  
-- 🧠 **500+ LeetCode Problems Solved**
-</p>
+  <p aligh="center">
+    - 🎓 **CS50 - Introduction to Computer Science (Harvard University)**  
+    - 🛠 **HackerRank Skills Verified**: Python, JavaScript, Problem Solving  
+    - 🧠 **500+ LeetCode Problems Solved**
+  </p>
 
 ---
 
