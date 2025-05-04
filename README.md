@@ -58,7 +58,7 @@
 <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" ></p>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=github_dark" />
     <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="NaeemAbdullahAkramTrophy" />
