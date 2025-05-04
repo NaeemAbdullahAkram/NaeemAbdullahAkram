@@ -56,19 +56,17 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" />
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" />
     <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=radical&hide_border=true" />
-
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" >
+    <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="NaeemAbdullahAkramTrophy" />
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" >
-    <p><img align="center" src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="NaeemAbdullahAkramTrophy" />
 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia&area=true&hide_border=true#gh-light-mode-only")/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=algolia&area=true&hide_border=true#gh-light-mode-only"/>
  
 </p>
 
@@ -80,6 +78,7 @@
 - 🛠 **HackerRank Skills Verified**: Python, JavaScript, Problem Solving  
 - 🧠 **500+ LeetCode Problems Solved**
 </p>
+
 ---
 
 ### <p align="left">
