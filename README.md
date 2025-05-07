@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 About Me               
-  <p align="center">
-    ### Hi! I'm ***Naeem Akram***, a passionate Mern Stack Developer from **Lahore, Pakistan 🇵🇰**.
-  </p>
+<p align="left">
+Hi! I'm <b>Naeem Akram</b>, a passionate Mern Stack Developer from <b>Lahore, Pakistan 🇵🇰</b>.
+</p>
 
 - 💼 Mern Stack Developer | Python Automation Expert  
 - 🧠 Solved **500+ LeetCode problems**  
@@ -19,8 +19,17 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 My Contributions & Activity
 
+<p align="center">
+  <img src="github-snake.svg" alt="Snake animation" />
+</p>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="100%"/>
+</div>
+
+### 🛠️ Tech Stack
 
 #### 🚀 Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,28 +64,37 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" ></p>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=github_dark" />
-    <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="NaeemAbdullahAkramTrophy" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark"/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark&area=true"/>
- 
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=github_dark" alt="GitHub Stats" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=github_dark" alt="GitHub Streak" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="GitHub Trophies" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark" alt="Profile Details" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark&area=true" alt="Activity Graph" width="90%" />
+</div>
 
 ---
 
 ### 📜 Certifications
-  <p aligh="center">
-    - 🎓 **CS50 - Introduction to Computer Science (Harvard University)**  
-    - 🛠 **HackerRank Skills Verified**: Python, JavaScript, Problem Solving  
-    - 🧠 **500+ LeetCode Problems Solved**
-  </p>
-
----
+<p align="left">
+  - 🎓 <b>CS50 - Introduction to Computer Science (Harvard University)</b>  
+  - 🛠 <b>HackerRank Skills Verified</b>: Python, JavaScript, Problem Solving  
+  - 🧠 <b>500+ LeetCode Problems Solved</b>
+</p>
 
 ### <p align="left">
   <img src="https://img.shields.io/badge/Featured%20Projects-%23FFFFFF?style=flat-square&logo=github&logoColor=181717" class="animate__animated animate__fadeIn animate__delay-1s"/>
@@ -93,7 +111,6 @@
 > Harvard’s CS50 problem sets like Speller, Sort, DNA, SQL-based apps.
 
 ---
-
 
 ### 🌍 Let's Connect
 
