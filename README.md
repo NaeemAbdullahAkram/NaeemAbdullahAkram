@@ -65,7 +65,7 @@ Hi! I'm <b>Naeem Akram</b>, a passionate Mern Stack Developer from <b>Lahore, Pa
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=green" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@ Hi! I'm <b>Naeem Akram</b>, a passionate Mern Stack Developer from <b>Lahore, Pa
 </div>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=github_dark" alt="GitHub Trophies" width="90%" />
+  <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="GitHub Trophies" width="90%" />
 </div>
 
 <div align="center">
