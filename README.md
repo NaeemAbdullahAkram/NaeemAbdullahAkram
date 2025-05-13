@@ -65,21 +65,21 @@ Hi! I'm <b>Naeem Akram</b>, a passionate Mern Stack Developer from <b>Lahore, Pa
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Repo" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Repo" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=github_dark" alt="GitHub Stats" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=radical" alt="Top Languages by Commits" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Commits" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=github_dark" alt="GitHub Streak" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="GitHub Trophies" width="90%" />
+  <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=github_dark" alt="GitHub Trophies" width="90%" />
 </div>
 
 <div align="center">
