@@ -55,15 +55,24 @@
 
 ---
 
-# 🌐 My Contributions & Activity
+# 📜 Certifications
 
-<p align="center">
-  <img src="github-snake.svg" alt="Snake animation" />
+###  - 🎓 <b>CS50 - Introduction to Computer Science (Harvard University)</b>  
+###  - 🛠 <b>HackerRank Skills Verified</b>: Python, JavaScript, Problem Solving  
+###  - 🧠 <b>500+ LeetCode Problems Solved</b>
+
+
+
+# <p align="left">
+  <img src="https://img.shields.io/badge/Featured%20Projects-%23FFFFFF?style=flat-square&logo=github&logoColor=181717" class="animate__animated animate__fadeIn animate__delay-1s"/>
 </p>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="100%"/>
-</div>
+## 🧠 [Befer.co (AI-Powered Tool)](https://befer.co)
+> Contributed to real-time AI tools, workflows, and branding.
+
+
+## 🔧 [CS50 Projects](https://github.com/NaeemAbdullahAkram/CS50x)
+> Harvard’s CS50 problem sets include Speller, Sort, DNA, and SQL-based apps.
 
 ---
 
@@ -87,25 +96,17 @@
 
 ---
 
-# 📜 Certifications
+# 🌐 My Contributions & Activity
 
-###  - 🎓 <b>CS50 - Introduction to Computer Science (Harvard University)</b>  
-###  - 🛠 <b>HackerRank Skills Verified</b>: Python, JavaScript, Problem Solving  
-###  - 🧠 <b>500+ LeetCode Problems Solved</b>
-
-
-
-# <p align="left">
-  <img src="https://img.shields.io/badge/Featured%20Projects-%23FFFFFF?style=flat-square&logo=github&logoColor=181717" class="animate__animated animate__fadeIn animate__delay-1s"/>
+<p align="center">
+  <img src="github-snake.svg" alt="Snake animation" />
 </p>
 
-## 🧠 [Befer.co (AI-Powered Tool)](https://befer.co)
-> Contributed to real-time AI tools, workflows, and branding.
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" width="100%"/>
+</div>
 
-
-## 🔧 [CS50 Projects](https://github.com/NaeemAbdullahAkram/CS50x)
-> Harvard’s CS50 problem sets include Speller, Sort, DNA, and SQL-based apps.
-
+---
 
 
 # 🌍 Let's Connect
