@@ -7,15 +7,15 @@
 ---
 
 # 👨‍💻 About Me               
-<p align="left">
-### Hi! I'm <b>Naeem Akram</b>, a passionate Mern Stack Developer from <b>Lahore, Pakistan 🇵🇰</b>.
-</p>
 
-### - 💼 Mern Stack Developer | Python Automation Expert  
-### - 🧠 Solved **500+ LeetCode problems**  
-### - 📜 Certified in CS50, HackerRank (Python, JavaScript, Problem Solving)  
-### - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/naeemabdullahakram/) | [Email](mailto:maliknaeemakram308@gmail.com)  
-### - 🔭 Currently diving deeper into **Backend**, **Frontend**, and **system design**
+### Hi! I'm <b>Naeem Akram</b>, a passionate Mern Stack Developer from <b>Lahore, Pakistan 🇵🇰</b>.
+
+
+#### - 💼 Mern Stack Developer | Python Automation Expert  
+#### - 🧠 Solved **500+ LeetCode problems**  
+#### - 📜 Certified in CS50, HackerRank (Python, JavaScript, Problem Solving)  
+#### - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/naeem-akram-7a48a01ba/) | [Email](mailto:maliknaeemakram308@gmail.com)  
+#### - 🔭 Currently diving deeper into **Backend**, **Frontend**, and **system design**
 
 ---
 
@@ -40,7 +40,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 🧩 Databases
+## 🧩 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-4479A1?style=for-the-badge&logo=sqlite3&logoColor=white)
 
@@ -69,24 +69,18 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=green" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
 </div>
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Repo" width="45%" />
+<div align=""center>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=github_dark" alt="GitHub Streak" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=github_dark" alt="GitHub Stats" width="45%" />
-</div>
-
-<div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Commits" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=github_dark" alt="GitHub Streak" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Repo" width="45%" />
 </div>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=NaeemAbdullahAkram&column=6&theme=radical" alt="GitHub Trophies" width="90%" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaeemAbdullahAkram&theme=github_dark" alt="Profile Details" width="90%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemAbdullahAkram&theme=react-dark&area=true" alt="Activity Graph" width="90%" />
 </div>
@@ -94,12 +88,10 @@
 ---
 
 # 📜 Certifications
-<p >
-  <ul>
- <li> ## - 🎓 <b>CS50 - Introduction to Computer Science (Harvard University)</b>  </li>
- <li> ## - 🛠 <b>HackerRank Skills Verified</b>: Python, JavaScript, Problem Solving  </li>
- <li> ## - 🧠 <b>500+ LeetCode Problems Solved</b></li>
-  </ul>
+<p>
+###  - 🎓 <b>CS50 - Introduction to Computer Science (Harvard University)</b>  
+###  - 🛠 <b>HackerRank Skills Verified</b>: Python, JavaScript, Problem Solving  
+###  - 🧠 <b>500+ LeetCode Problems Solved</b>
 </p>
 
 ---
@@ -109,7 +101,7 @@
 </p>
 
 ## 🧠 [Befer.co (AI-Powered Tool)](https://befer.co)
-> Contributed to a real-time AI tool streamlining social media workflows and branding.
+> Contributed to real-time AI tools, workflows, and branding.
 
 
 ## 🔧 [CS50 Projects](https://github.com/NaeemAbdullahAkram/CS50x)
@@ -117,7 +109,7 @@
 
 ---
 
-### 🌍 Let's Connect
+# 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naeem-akram-7a48a01ba/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
