@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:DAA520,50:B8860B,100:8B4513&height=250&section=header&text=Naeem%20Akram&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=DAA520&center=true&vCenter=true&width=600&height=100&lines=🚀+MERN+Stack+Developer;🧠+1000%2B+LeetCode+Problems+Solved;🎓+CS50+%7C+HackerRank+Certified;💻+Open+Source+Contributor;🌟+Python+Automation+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=DAA520&center=true&vCenter=true&width=600&height=100&lines=🚀+MERN+Stack+Developer;🧠+1000%2B+LeetCode+Problems+Solved;🎓+CS50+%7C+HackerRank+Certified;💻+Open+Source+Contributor;🌟" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Hi! I'm **Naeem Akram**, a passionate MERN Stack Developer from **Lahore, Pakistan** 🇵🇰
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Full Stack Developer** | **Python Automation Expert**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **MERN Stack Developer** |   
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Solved **1000+ LeetCode problems**  
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Certified in **CS50, HackerRank** (Python, JavaScript, Problem Solving)  
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Currently diving deeper into **Backend**, **Frontend**, and **System Design**  
@@ -133,17 +133,19 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=DAA520&text_color=ffffff&icon_color=B8860B&border_color=8B4513" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=dark&background=0d1117&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=ffffff&currStreakNum=ffffff&dates=8B4513&sideNums=B8860B&border=8B4513" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=dark&bg_color=0d1117&title_color=DAA520&text_color=ffffff&icon_color=B8860B&border_color=8B4513" alt="GitHub Stats" width="48%" />
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=dark&bg_color=0d1117&title_color=DAA520&text_color=ffffff&icon_color=B8860B&border_color=8B4513" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Commits" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=dark&background=0d1117&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=ffffff&currStreakNum=ffffff&dates=8B4513&sideNums=B8860B&border=8B4513" alt="GitHub Streak" width="48%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=github_dark" alt="Productive Time" width="48%" />
+  
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=github_dark" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaeemAbdullahAkram&theme=github_dark" alt="Top Languages by Commits" width="48%" />
 </div>
 
 <div align="center">
