@@ -132,13 +132,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=DAA520&text_color=ffffff&icon_color=B8860B&border_color=8B4513" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=dark&background=0d1117&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=ffffff&currStreakNum=ffffff&dates=8B4513&sideNums=B8860B&border=8B4513" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=NaeemAbdullahAkram&show_icons=true&theme=dark&bg_color=0d1117&title_color=DAA520&text_color=ffffff&icon_color=B8860B&border_color=8B4513" alt="GitHub Stats" width="48%" />
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaeemAbdullahAkram&theme=dark&background=0d1117&ring=DAA520&fire=B8860B&currStreakLabel=DAA520&sideLabels=ffffff&currStreakNum=ffffff&dates=8B4513&sideNums=B8860B&border=8B4513" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaeemAbdullahAkram&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=DAA520&text_color=ffffff&icon_color=B8860B&border_color=8B4513" alt="Top Languages" width="48%" />
+  
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaeemAbdullahAkram&theme=github_dark" alt="Productive Time" width="48%" />
   
 </div>
