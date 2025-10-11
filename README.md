@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:A0522D,100:D2691E&height=300&section=header&text=Naeem%20Akram&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20Backend%20Specialist%20%7C%20Node.js%20%26%20Python%20Expert&descAlignY=55&descAlign=50)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=D2691E&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=100&amp;lines=🚀+MERN+Stack+Developer;🏗️+Backend+Specialist+(Node.js+%2B+Python);⚡+Next.js+%26+NestJS+Expert;🔌+Third-Party+Integration+Pro;🎓+CS50+Graduate+%7C+HackerRank+Certified;🧠+Active+LeetCode+Problem+Solver;💡+Building+Scalable+Real-Time+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=D2691E&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=100&amp;lines=🚀+MERN+Stack+Developer;🏗️+Backend+Specialist+(Node.js+%2B+Python);⚡+Next.js+and+NestJS+Expert;🔌+Third-Party+Integration+Pro;🎓+CS50+Graduate+%7C+HackerRank+Certified;🧠+Active+LeetCode+Problem+Solver;💡+Building+Scalable+Real-Time+Apps" />
 </div>
 
 <div align="center">
