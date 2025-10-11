@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=D2691E&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=100&amp;lines=🚀+MERN+Stack+Developer;🏗️+Backend+Specialist+(Node.js+%2B+Python);⚡+Next.js+and+NestJS+Expert;🔌+Third-Party+Integration+Pro;🎓+CS50+Graduate+%7C+HackerRank+Certified;🧠+Active+LeetCode+Problem+Solver;💡+Building+Scalable+Real-Time+Apps" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</div>
+</div> -->
 
 ---
 
